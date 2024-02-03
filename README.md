@@ -2,4 +2,8 @@
 
 ## Initial setting for Mac silicon
 
-### Just run init_setting.sh
+```shell
+cd ~
+git clone https://github.com/donghyun-daniel/set_profile.git
+sh init_setting.sh
+```
