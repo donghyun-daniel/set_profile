@@ -1,2 +1,5 @@
 # set_profile
-after format mac
+
+## Initial setting for Mac silicon
+
+### Just run init_setting.sh
